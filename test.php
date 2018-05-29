@@ -1,1 +1,2 @@
-<?php echo "Wingwhyingttttingggtftf"; ?>
+<?php echo "WWWingwhyingttttingggtftf"; ?>
+<?php echo "whay"; ?>
