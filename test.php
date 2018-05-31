@@ -1,2 +1,2 @@
-asdfasdf<?php echo "WWWingwhyingttttingggtftf"; ?>
+as<?php echo "WWWingwhyingttttingggtftf"; ?>
 <?php echo "whay"; ?>
